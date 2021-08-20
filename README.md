@@ -1,6 +1,6 @@
 # PayrollSystem using HTML and PHP.
 
-List of features: HR login, HR signup, Employee login.
+It is a very simple project. List of features: HR login, HR signup, Employee login.
 
 Run home.php file which is in PayrollSystem folder. Import payrollsystem.sql file in XAMPP MySQL. Change the database connection in codes accoring to your own computer sql server connection.
 
