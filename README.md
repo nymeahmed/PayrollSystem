@@ -1,4 +1,4 @@
-# PayrollSystem using HTML and PHP.
+# PayrollSystem using HTML and PHP
 
 It is a very simple project. List of features: HR login, HR signup, Employee login.
 
